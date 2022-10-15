@@ -1,0 +1,11 @@
+<div class="form-group">
+                                       <label>Type of Loan *</label>
+                                       <select class="form-control" name="loan_type" id="loan_type">
+                                          <option value="">Select Loan Type</option>
+                                          <option value="Personal Loan">Personal Loan</option>
+                                          <option value="Business Loan">Business Loan</option>
+                                          <option value="Car Loan">Car Loan</option>
+                                          <option value="Loan against property">Loan against property</option>
+                                          <option value="Education Loan">Education Loan</option>
+                                       </select>
+                                    </div>
